@@ -33,7 +33,7 @@
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{17bf3de4-5353-5709-bcf9-835bd952a95e}",
-    "minimizeToNotificationArea": true,
+    "minimizeToNotificationArea": false,
     "newTabMenu": 
     [
         {
